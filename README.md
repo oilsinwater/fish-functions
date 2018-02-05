@@ -40,6 +40,14 @@ end
 $ fs
 Saved hi
 ```
+### `gint`
+
+Initializes git repo
+
+````
+$ gint
+Reinitialized existing Git repository in path/to/file
+```
 
 ### `lower`
 
