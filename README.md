@@ -42,18 +42,21 @@ Saved hi
 ```
 ### `gco`
 Commit's changes to repo
+
+```
+$ gco
 Your branch is up to date with 'origin/master'...
-````
+```
 
 
 ### `gint`
 
 Initializes git repo
 
-````
+```
 $ gint
 Reinitialized existing Git repository in path/to/file
-````
+```
 
 ### `lower`
 
